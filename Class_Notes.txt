@@ -1,0 +1,12 @@
+
+
+kaggle-Data science competiotion website
+GCP- account setup in google cloud platform- 300$ free credit
+google colab- similar to jupytor notebook and giving the infrastructure
+analytics vidya
+download some dataset and start working on
+
+
+loan of 1 lakh rupees at 11% ROI per annum
+3 lakh at 14%
+53/4= 13.25%
